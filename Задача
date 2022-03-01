@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main()
+{
+int y, x, c;
+printf("Введите x:");
+scanf("%d", x);
+
+y = log(x)
+
+printf("y = %d", y);
+getchar()
