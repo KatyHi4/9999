@@ -5,7 +5,8 @@ int y, x, c;
 printf("Введите x:");
 scanf("%d", x);
 
-y = log(x)
+y = log(x);
+c = y*2;
 
-printf("y = %d", y);
+printf("y = %d", c);
 getchar()
